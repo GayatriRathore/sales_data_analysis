@@ -1,0 +1,7 @@
+Order_ID,Customer_Name,Product,Quantity,Price,Region,Order_Date
+1001,John,Laptop,1,50000,North,2026-01-10
+1002,Alice,Mouse,2,500,South,2026-01-11
+1003,,Keyboard,1,1500,West,2026-01-12
+1004,Raj,Laptop,-1,50000,North,2026-01-13
+1005,Neha,Monitor,1,10000,East,2026-01-14
+1005,Neha,Monitor,1,10000,East,2026-01-14
